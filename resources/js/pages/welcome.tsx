@@ -37,12 +37,9 @@ export default function Welcome() {
                     gradient: 'for every web developer',
                 }}
                 description="Empower your workflow with a curated suite of tools and resources designed to help you build, test, and launch with confidence."
-                ctaText="Login"
+                ctaText="Login "
                 ctaHref="/login"
-                bottomImage={{
-                    light: 'https://www.launchuicomponents.com/app-light.png',
-                    dark: 'https://www.launchuicomponents.com/app-dark.png',
-                }}
+              
                 gridOptions={{
                     angle: 65,
                     opacity: 0.4,
